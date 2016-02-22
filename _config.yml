@@ -1,0 +1,14 @@
+layout_spectrum: 0.235589
+typography_spectrum: 0.8259119
+color:
+  lightness: 0.3114035
+  brandStrength: 0.6606968
+  saturation: 0.9270799
+  rhythmicContrast: 0.3477822
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Tiena
