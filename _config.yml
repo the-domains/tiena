@@ -1,3 +1,7 @@
+name: Tiena
+favicon: null
+layout_spectrum: 0.202509
+typography_spectrum: 0.9032258
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.9032258
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9283154
-  brandStrength: 0.8422939
-  lightness: 0.2473118
   brandColors:
     - '#FFFFFF'
     - '#A50000'
     - '#000000'
     - '#BF4C4C'
     - '#F2DADA'
+  brandStrength: 0.8422939
+  lightness: 0.2473118
+  saturation: 0.9283154
   rhythmicContrast: 0.516129
-layout_spectrum: 0.202509
-name: Tiena
+purpose: []
