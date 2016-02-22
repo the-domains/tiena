@@ -1,14 +1,26 @@
-layout_spectrum: 0.235589
-typography_spectrum: 0.8259119
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.9032258
 color:
-  lightness: 0.3114035
-  brandStrength: 0.6606968
-  saturation: 0.9270799
-  rhythmicContrast: 0.3477822
+  saturation: 0.9283154
+  brandStrength: 0.8422939
+  lightness: 0.2473118
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#FFFFFF'
+    - '#A50000'
+    - '#000000'
+    - '#BF4C4C'
+    - '#F2DADA'
+  rhythmicContrast: 0.516129
+layout_spectrum: 0.202509
 name: Tiena
