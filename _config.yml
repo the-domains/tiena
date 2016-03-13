@@ -3,9 +3,9 @@ favicon: null
 name: Tiena
 purpose: []
 analytics:
-  twitter: null
-  google: null
   facebook: null
+  google: null
+  twitter: null
 opengraph:
   image: null
   type: null
@@ -23,14 +23,14 @@ collections:
       path: /rss.xml
       number: 10
 cta:
+  domain: null
   version: null
   bucket: null
-  domain: null
 color:
   brandStrength: 0.8422939
-  lightness: 0.2473118
-  saturation: 0.9283154
-  rhythmicContrast: 0.516129
+  lightness: 0.5745614
+  saturation: 0.4943609
+  rhythmicContrast: 0.3565163
   brandColors:
     - '#A60000'
     - '#FFFFFF'
