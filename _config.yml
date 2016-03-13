@@ -1,40 +1,40 @@
-name: Tiena
-favicon: null
 layout_spectrum: 0.202509
-typography_spectrum: 0.9032258
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
+favicon: null
+name: Tiena
+purpose: []
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      paginate: true
+      path: /
+      number: 15
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+cta:
+  version: null
+  bucket: null
+  domain: null
 color:
-  brandColors:
-    - '#FFFFFF'
-    - '#A50000'
-    - '#000000'
-    - '#BF4C4C'
-    - '#F2DADA'
   brandStrength: 0.8422939
   lightness: 0.2473118
   saturation: 0.9283154
   rhythmicContrast: 0.516129
-purpose: []
+  brandColors:
+    - '#A60000'
+    - '#FFFFFF'
+    - '#000001'
+    - '#D64247'
+    - '#D8BDBD'
+typography_spectrum: 0.6711636
