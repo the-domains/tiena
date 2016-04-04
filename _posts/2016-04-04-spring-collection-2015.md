@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: SPRING Collection 2015
-datePublished: '2016-04-04T17:52:35.913Z'
-dateModified: '2016-04-04T03:46:38.945Z'
+datePublished: '2016-04-04T18:13:22.107Z'
+dateModified: '2016-04-04T18:13:18.847Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-04-spring-collection-2015.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-04-spring-collection-2015.md
-published: true
 url: spring-collection-2015/index.html
 _type: Article
 
