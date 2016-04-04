@@ -4,8 +4,15 @@
         <description><![CDATA[Tiena]]></description>
         <link>http://www.ttiena.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Apr 2016 18:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2016 18:19:35 GMT</lastBuildDate>
         <atom:link href="http://www.ttiena.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About]]></title>
+            <description><![CDATA[<article><h1>About</h1><p>A B O U T  US</p></article>]]></description>
+            <link>http://www.ttiena.com/about/index.html</link>
+            <guid isPermaLink="false">153fef2f-7728-4342-984f-766f5e9dc3b3</guid>
+            <pubDate>Mon, 04 Apr 2016 18:19:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f2af98d-0452-4ee6-8ae9-7150e0a54eab.png">]]></description>
