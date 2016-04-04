@@ -1,15 +1,7 @@
-layout_spectrum: 0.202509
-favicon: null
 name: Tiena
-purpose: []
-analytics:
-  facebook: null
-  google: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.202509
+typography_spectrum: 0.31457
 collections:
   - index:
       paginate: true
@@ -24,17 +16,25 @@ collections:
       number: 10
 cta:
   domain: null
-  version: null
   bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.8422939
-  lightness: 0.5745614
-  saturation: 0.4943609
-  rhythmicContrast: 0.3565163
   brandColors:
     - '#A60000'
     - '#FFFFFF'
     - '#000001'
     - '#D64247'
     - '#D8BDBD'
-typography_spectrum: 0.6711636
+  brandStrength: 0.75
+  lightness: 0.5745614
+  saturation: 0.4943609
+  rhythmicContrast: 0.3565163
+purpose: []
