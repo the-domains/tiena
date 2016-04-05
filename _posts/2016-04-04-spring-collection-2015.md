@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: SPRING Collection 2015
-datePublished: '2016-04-05T09:38:47.726Z'
-dateModified: '2016-04-05T09:36:07.574Z'
+datePublished: '2016-04-05T09:53:41.660Z'
+dateModified: '2016-04-05T09:38:56.929Z'
 title: Spring/Summer 2015
 author: []
 sourcePath: _posts/2016-04-04-spring-collection-2015.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: spring-collection-2015/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 SPRING Collection 2015
