@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: SPRING Collection 2015
-datePublished: '2016-04-05T09:35:26.817Z'
-dateModified: '2016-04-05T09:33:53.420Z'
+datePublished: '2016-04-05T09:38:47.726Z'
+dateModified: '2016-04-05T09:36:07.574Z'
 title: Spring/Summer 2015
 author: []
 sourcePath: _posts/2016-04-04-spring-collection-2015.md
